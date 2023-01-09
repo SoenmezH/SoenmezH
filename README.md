@@ -1,5 +1,8 @@
 ### Hi there 👋
+
 ### I’m a full stack web developer from berlin
+
+### 🌱 I’m currently learning cypress.io
 
 <!--
 **SoenmezH/SoenmezH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
